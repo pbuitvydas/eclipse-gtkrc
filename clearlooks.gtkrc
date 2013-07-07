@@ -45,7 +45,7 @@ gtk_color_scheme = "fg_color:#000\nbg_color:#EDECEB\nbase_color:#fff\ntext_color
 gtk-icon-sizes = "panel-menu=16,16 : gtk-menu=16,16 : gtk-button=16,16 : gtk-small-toolbar=16,16 : gtk-large-toolbar=16,16 : gtk-dialog=32,32 : gtk-dnd=32,32"
 # gtk-icon-sizes = "gtk-menu=16,16 : gtk-button=16,16 : gtk-small-toolbar=16,16 : gtk-large-toolbar=16,16 : gtk-dialog=32,32 : gtk-dnd=32,32"
 
-gtk-font-name = "Ubuntu 7"
+gtk-font-name = "Sans 9"
 
 
 
@@ -85,8 +85,8 @@ style "clearlooks-default"
 	GtkScale       ::trough-side-details  = 1
 	GtkScale       ::value_spacing        = 0
 
-	GtkScrollbar   ::slider-width         = 10
-	GtkScrollbar   ::stepper-size         = 10
+	GtkScrollbar   ::slider-width         = 13
+	GtkScrollbar   ::stepper-size         = 13
 	GtkScrollbar   ::min-slider-length    = 30
 	GtkScrolledWindow::scrollbar_spacing  = 0
 
@@ -255,7 +255,7 @@ style "clearlooks-nautilus-location" {
 
 style "font"
 {
-    font_name = "Ubuntu 7"
+    font_name = "Sans 9"
 }
 
 
